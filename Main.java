@@ -82,7 +82,7 @@ public class Main {
         JButton invalidateCacheButton = new JButton("Invalidate Cache");
         JButton readTasksButton = new JButton("Read Tasks");
 
-        // Adăugarea acțiunilor pentru butoanele de măsurare a timpului
+        // Adăugarea acțiunilor pentru butoanele adaugate mai sus
         measureFileReadPerformanceButton.addActionListener(new ActionListener() {
             public void actionPerformed(ActionEvent e) {
                 long time = taskManager.measureFileReadTime(filePath);
