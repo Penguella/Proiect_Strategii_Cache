@@ -1,0 +1,60 @@
+1,Open the laptop,done
+2,Connect to wifi,todo
+3,Update the antivirus,done
+4,Schedule meeting with Dana,todo
+5,Run an antivirus scan,todo
+6,Feed the budgies,done
+7,Call grandma,todo
+8,Make a trial account,todo
+9,Check the newest DS episode,done
+10,Eat something healthy,todo
+11,Daydream about game,done
+12,Play HSR with Adina,done
+13,Do homework,done
+14,Play around with the code,todo
+15,Make the code crash,done
+16,task_16,todo
+17,task_17,todo
+18,task_18,todo
+19,task_19,done
+20,task_20,todo
+21,task_21,todo
+22,task_22,todo
+23,task_23,todo
+24,task_24,todo
+25,task_25,todo
+26,task_26,todo
+27,task_27,done
+28,task_28,todo
+29,task_29,todo
+30,task_30,todo
+31,task_31,todo
+32,task_32,todo
+33,task_33,todo
+34,task_34,done
+35,task_35,todo
+36,task_36,todo
+37,task_37,todo
+38,task_38,todo
+39,task_39,todo
+40,task_40,todo
+41,task_41,todo
+42,task_42,todo
+43,task_43,todo
+44,task_44,todo
+45,task_45,todo
+46,task_46,todo
+47,task_47,todo
+48,task_48,todo
+49,task_49,todo
+50,task_50,todo
+51,task_51,todo
+52,task_52,todo
+53,task_53,todo
+54,task_54,todo
+55,task_55,todo
+56,task_56,todo
+57,task_57,todo
+58,task_58,todo
+59,task_59,todo
+60,task_60,todo
